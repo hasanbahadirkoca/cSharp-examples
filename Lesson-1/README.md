@@ -4,7 +4,10 @@
 
 ## Example 1
     Console.Write("Hello World!");
+    //We wrote Hello World! to console screen. However, because we used the "Write" command, it did not go to the bottom line.
+
     Console.Write("Hello World 2!");
+    //When we rewrote the same code, they were written side by side.
 ###### Output:
     Hello World!Hello World 2!
 
