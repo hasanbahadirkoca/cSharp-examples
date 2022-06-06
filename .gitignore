@@ -1,5 +1,5 @@
 # Hidden vs files
-*.vs/
+.vs/
 
 # DS_Store files
 *.DS_Store
