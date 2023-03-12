@@ -109,6 +109,8 @@ namespace lesson_10
             */
 
 
+            string deneme = "Değer";
+            Console.WriteLine(String.Compare(deneme, "DeğeR", false));
 
 
 
@@ -117,6 +119,8 @@ namespace lesson_10
 
             /*Elemanları klavyeden girilen 10 elemanlı
              * dizinin en büyük değerini bulan prg*/
+
+            /*
             int[] dizi = new int[10];
             int EB;
             Console.Write("0. indexi giriniz:");
@@ -130,6 +134,7 @@ namespace lesson_10
                     EB = dizi[1];
             }
             Console.WriteLine("En büyük değer {0}", EB);
+            */
             /*10 elemanlı, değerleri 1-100 arasında random gelen
              * dizinin en küçük elemanı*/
 
